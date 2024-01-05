@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kalwabed/TypeScript-Website is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -21,11 +22,13 @@ kalwabed/TypeScript-Website is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kalwabed/TypeScript-Website is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -45,14 +48,15 @@ kalwabed/TypeScript-Website is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kalwabed/TypeScript-Website](https://github.com/kalwabed/TypeScript-Website)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|62<br/>Tools used|11/10/23 <br/>Report generated|
+|63<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -247,9 +251,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (41)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (42)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (41)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (42)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -275,6 +279,7 @@ Full tech stack [here](/techstack.md)
 |[gatsby-plugin-sharp](https://www.npmjs.com/gatsby-plugin-sharp)|v2.4.5|07/31/20|Orta |MIT|[CVE-2023-30548](https://github.com/advisories/GHSA-h2pm-378c-pcxx) (Moderate)|
 |[gatsby-source-filesystem](https://www.npmjs.com/gatsby-source-filesystem)|v2.1.48|07/31/20|Orta |MIT|N/A|
 |[gatsby-transformer-remark](https://www.npmjs.com/gatsby-transformer-remark)|v2.6.52|07/31/20|Orta |MIT|[CVE-2023-22491](https://github.com/advisories/GHSA-7ch4-rr99-cqcw) (High)|
+|[husky](https://www.npmjs.com/husky)|v4.2.3|04/13/20|Orta Therox |MIT|N/A|
 |[lz-string](https://www.npmjs.com/lz-string)|v1.4.4|05/15/20|Orta Therox |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.24.0|02/22/20|Orta Therox |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.28|02/22/20|Orta Therox |MIT|[](https://github.com/advisories/GHSA-v78c-4p63-2j6c) (Moderate)<br/>[](https://github.com/advisories/GHSA-56x4-j7p9-fcf9) (Low)|
@@ -298,4 +303,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
